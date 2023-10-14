@@ -15,6 +15,7 @@ string delSpaces(string text)
 			text[y++] = text[i];
 		}
 	}
+	cout << "String";
 
 	return text;
 }
